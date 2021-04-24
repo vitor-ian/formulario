@@ -29,7 +29,7 @@ Line 13-29: Form
   
   
 
-Line 32-36: Erase for use
+Line 31-36: Erase for use
 
 NOTE: Soon I will do an article on how to use "static forms".
 
@@ -41,31 +41,31 @@ Line 1: Import font
 
 Line 5-8: Background Crimson 
 
-Line 18-22: Background Form
+Line 10-22: Background Form
 
 Line 24-28: Box Form
 
 Line 29-36: Text Area
 
-Line 38-41: Text spacing
+Line 38-42: Text spacing
 
-Line 43-65: Configuring Button
+Line 44-66: Configuring Button
 
-Line 67-70: Border Focus
+Line 68-71: Border Focus
 
-Line 72-74: Border Invalid
+Line 73-75: Border Invalid
 
-Line 76-78: Border Valid
+Line 77-79: Border Valid
 
-Line 80-89: Configuring font for use
+Line 81-91: Configuring font for use
 
-Line 91-93: Disabling resize
+Line 93-95: Disabling resize
 
-Line 96-101: Configuring mobile
+Line 98-110: Configuring mobile
 
 
 
-Line 105-122: Erase for use
+Line 115-132: Erase for use
 
 
 {VITOR IAN}
