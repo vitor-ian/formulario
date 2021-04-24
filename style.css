@@ -38,6 +38,7 @@
     label {
         padding-bottom: 5px;
         display: inline-block;
+        margin: 0 auto;
     }
     
     button{
@@ -86,6 +87,7 @@
 	    text-transform: uppercase;
 	    letter-spacing: .2rem;
 	    text-align: center;
+        font-weight: 600;
     }
 
     textarea {
@@ -93,9 +95,16 @@
     }
     
     
-    @media screen and (max-width: 768px) {
+    @media screen and (max-width: 900px) {
         form{
+            width: 50%;
+        }
+        
+        button{
             width: 100%;
+        }
+        .brand .h1{
+            font-size: 2rem;
         }
     
     }
@@ -115,7 +124,12 @@
 	font-size: 3rem;
 	text-transform: uppercase;
 	color: white;
+    text-decoration: none;
 }
 .brand h1 span {
 	color: crimson;
+}
+
+a:link {
+    text-decoration: none;
 }
